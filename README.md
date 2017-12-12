@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-```
+```ruby
 HelgeViewTool::Renderer.copyright 'Bryan Lund', 'all rights reserved'
 ```
 

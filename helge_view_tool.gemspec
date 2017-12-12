@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Bryan Lund"]
   spec.email         = ["bryan.helge@gmail.com"]
 
-  spec.summary       = %q{Creates copy right string}
+  spec.summary       = %q{Various veiw specific methods for applications use.}
   spec.description   = %q{A very simple gem made for class for demontration}
   spec.homepage      = "https://github.com/Helge801/helge_view_tool"
   spec.license       = "MIT"
